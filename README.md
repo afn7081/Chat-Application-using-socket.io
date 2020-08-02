@@ -9,4 +9,4 @@ Back End --<br>
 <br>
 <img src="https://github.com/shreyansh225/Chat-Application-using-Websocket/blob/master/Typing 2.jpg" alt="Mark Typing.." width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
 <br>
-<img src="https://github.com/shreyansh225/Chat-Application-using-Websocket/blob/master/Final Chat.jpg" alt="Final chat" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
+<img src="https://github.com/shreyansh225/Chat-Application-using-Websocket/blob/master/Final chat.jpg" alt="Final chat" width="105%" height="105%" style="vertical-align:middle;margin:0px 50px">
