@@ -1,6 +1,6 @@
 // Make connection to server to create the web socket between the two
 // the socket in frontend
-var socket= io.connect('http://localhost:4000')  // we have access to this coz we have logged it in the index.html
+var socket= io.connect('https://fifu.onrender.com/:10000')  // we have access to this coz we have logged it in the index.html
 // part 1 over
 
 // Query DOM
