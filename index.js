@@ -15,6 +15,7 @@ const PORT=process.env.PORT;
 // .listen to make it lesten to aspecific port number
 var server = app.listen(PORT||4000, function(){      // when it starts listening we can call back funtion
     console.log('listening for requests on port 4000,');
+    console.log(PORT)
 });
 
 // Static files
