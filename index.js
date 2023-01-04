@@ -3,6 +3,7 @@
 // node index       (cmd) (to start server once created)
 var express = require('express');  //write express in require so we can use it in the project
 // the word express here is a var function
+const dotenv=require('dotenv')
 
 // npm install socket.io --save   (cmd)(to install & setup socket.io in project)
 var socket = require('socket.io');
